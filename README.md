@@ -1,10 +1,10 @@
-# YoloStocks Data - Wallstreetbets & Reddit Ticker Analytics
+# YoloStocks Data - Wallstreetbets Daily Ticker Mentions Datasets
 
 This repository contains the data from [YoloStocks](https://yolostocks.live), a live Reddit ticker analytics platform. We are releasing daily mentions count for the most popular tickers & stocks in 2021 for WallStreetBets and other finance-related subreddits. For details on methodology, see the *Methodology* section on [YoloStocks.live](https://yolostocks.live).
 
 ## Subreddits
 
-We have data for the following subreddits (Top 100 tickers for r/WallStreetBets and r/Cryptocurrency, top 20 for all other subreddits).
+We have daily mentions data for all of 2021 for the following subreddits (Top 100 tickers for r/WallStreetBets and r/Cryptocurrency, top 20 for all others):
 
 * [r/WallStreetBets](https://yolostocks.live/r/wallstreetbets)
 * [r/Cryptocurrency](https://yolostocks.live/r/cryptocurrency)
