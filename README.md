@@ -17,6 +17,10 @@ We have daily mentions data for all of 2021 for the following subreddits (Top 10
 * [r/GME](https://yolostocks.live/r/gme)
 * [r/Superstonk](https://yolostocks.live/r/superstonk)
 
+## Data Format
+
+The data is released in `.csv` format. Each row is a unique ticker/symbol and each column is a date in 2021. The rest should hopefully be fairly self-explanatory.
+
 ## Missing Dates
 
 There are a few missing/partial days due to the Reddit API being down. They are:
@@ -36,3 +40,7 @@ Live data is available on [YoloStocks](https://yolostocks.live).
 ## Usage
 
 We encourage you use to use this data freely for your research and analysis. We just kindly request that you cite [YoloStocks](https://yolostocks.live). The data is under the [CC By 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+## Issues? Questions? SUggestions?
+
+If there are any issues with the dataset, or you have any questions/suggestions, please reach out to me via the [YoloStocks](https://yolostocks.live) contact form.
