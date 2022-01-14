@@ -35,4 +35,4 @@ Live data is available on [YoloStocks](https://yolostocks.live).
 
 ## Usage
 
-We encourage you use to use this data freely for your research and analysis. We just kindly request that you cite [YoloStocks](https://yolostocks.live).
+We encourage you use to use this data freely for your research and analysis. We just kindly request that you cite [YoloStocks](https://yolostocks.live). The data is under the [CC By 4.0](https://creativecommons.org/licenses/by/4.0/) license.
