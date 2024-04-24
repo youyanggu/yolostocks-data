@@ -24,7 +24,7 @@ The data is released in `.csv` format. Each row is a unique ticker/symbol and ea
 
 ## Missing Dates
 
-There are a few missing/partial days in 2021 due to the Reddit API being down. They are: Jan 24, 2021 (partial day), Jan 25, 2021, Jan 26, 2021, Jan 27, 2021 (partial day), Feb 28, 2021, Mar 1, 2021, Mar 2, 2021 (partial day)
+There are a few missing/partial days in 2021 due to the Reddit API being down. They are: Jan 24, 2021 (partial day), Jan 25, 2021, Jan 26, 2021, Jan 27, 2021 (partial day), Feb 28, 2021, Mar 1, 2021, Mar 2, 2021 (partial day). In 2023, Jun 12-14 and Dec 13-18 may have missing data.
 
 ## Live Data
 
