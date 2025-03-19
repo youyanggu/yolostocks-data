@@ -1,6 +1,6 @@
 # YoloStocks Data - Wallstreetbets Daily Ticker Mentions Datasets
 
-This repository contains the data from [YoloStocks](https://yolostocks.live), a live Reddit ticker analytics platform. We are releasing daily mentions count for the most popular tickers & stocks in 2021 and 2022 for WallStreetBets and other finance-related subreddits. For details on methodology, see the *Methodology* section on [YoloStocks.live](https://yolostocks.live).
+This repository contains the data from [YoloStocks](https://yolostocks.live), a live Reddit ticker analytics platform. We are releasing daily mentions count for the most popular tickers & stocks for WallStreetBets and other finance-related subreddits. For details on methodology, see the *Methodology* section on [YoloStocks.live](https://yolostocks.live).
 
 ## Subreddits
 
@@ -11,10 +11,10 @@ We have daily mentions data for the following subreddits (Top 100 tickers for r/
 * [r/stocks](https://yolostocks.live/r/stocks)
 * [r/investing](https://yolostocks.live/r/investing)
 * [r/pennystocks](https://yolostocks.live/r/pennystocks)
-* [r/spacs](https://yolostocks.live/r/spacs)
 * [r/stockmarket](https://yolostocks.live/r/stockmarket)
 * [r/options](https://yolostocks.live/r/options)
-* [r/Shortsqueeze](https://yolostocks.live/r/shortsqueeze) (2022 onwards)
+* [r/spacs](https://yolostocks.live/r/spacs) (2021 and 2022 only)
+* [r/Shortsqueeze](https://yolostocks.live/r/shortsqueeze) (2022 only)
 * [r/GME](https://yolostocks.live/r/gme) (2021 only)
 * [r/Superstonk](https://yolostocks.live/r/superstonk) (2021 only)
 
@@ -24,7 +24,10 @@ The data is released in `.csv` format. Each row is a unique ticker/symbol and ea
 
 ## Missing Dates
 
-There are a few missing/partial days in 2021 due to the Reddit API being down. They are: Jan 24, 2021 (partial day), Jan 25, 2021, Jan 26, 2021, Jan 27, 2021 (partial day), Feb 28, 2021, Mar 1, 2021, Mar 2, 2021 (partial day). In 2023, Jun 12-14 and Dec 13-18 may have missing data.
+Below are a few missing/partial days due to the Reddit API being down. This list may be incomplete.
+* 2021: Jan 24, 2021 (partial day), Jan 25, 2021, Jan 26, 2021, Jan 27, 2021 (partial day), Feb 28, 2021, Mar 1, 2021, Mar 2, 2021 (partial day)
+* 2023: Jun 12-14, Dec 13-18
+* 2024: Jun 13-17
 
 ## Live Data
 
@@ -36,4 +39,4 @@ We encourage you use to use this data freely for your research and analysis. We 
 
 ## Issues? Questions? Suggestions?
 
-If there are any issues with the dataset, or you have any questions/suggestions, please reach out to me via the [YoloStocks](https://yolostocks.live) contact form.
+If there are any issues with the dataset, or you have any questions/suggestions, please reach out via the [YoloStocks](https://yolostocks.live) contact form.
